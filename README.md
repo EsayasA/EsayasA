@@ -21,5 +21,5 @@ Feel free to reach out if you'd like to connect or collaborate!
 
 ## Contact
 
-- 📧 Email: your.esayasaregawi29@example.com
+- 📧 Email:esayasaregawi29@example.com
 
