@@ -1,25 +1,66 @@
-# Hi there, I'm Esayas 👋
+# Hi, I'm Esayas 👋
 
-I am a passionate **Software Developer** graduated from **ALX** and specialized in **Backend Development**. I enjoy solving complex problems and building scalable applications.
+I'm a Software Developer with a strong interest in Artificial Intelligence, Backend Development, and Computer Vision. I enjoy building applications that combine machine learning with practical software engineering.
 
-## Technologies & Tools
+## What I'm Working On
 
-- **Frontend**: HTML, CSS, JavaScript, React
-- **Backend**: Python, Node.js, Flask
-- **Databases**: PostgreSQL, MySQL, MongoDB
-- **Version Control**: Git, GitHub
-- **Others**: REST APIs, Docker, Nginx, AWS
+- 🤖 Retrieval-Augmented Generation (RAG) applications
+- 👁️ Computer Vision projects using modern foundation models
+- ⚙️ Backend APIs with FastAPI and Python
+- 🌐 Full-stack applications with Next.js and React
 
-## About Me
+## Tech Stack
 
-- 💻 I'm a backend developer with a focus on creating efficient and scalable applications.
-- 🌱 I'm constantly learning and exploring new technologies to improve my skills.
-- 📚 I'm always open to collaborating on interesting projects and contributing to open-source.
+### Languages
+- Python
+- JavaScript / TypeScript
+- SQL
 
+### AI & Machine Learning
+- Ollama
+- ChromaDB
+- Grounding DINO
+- Segment Anything 2 (SAM 2)
+- CLIP
+- OpenCV
 
-Feel free to reach out if you'd like to connect or collaborate!
+### Backend
+- FastAPI
+- Flask
+- Node.js
+- REST APIs
 
-## Contact
+### Frontend
+- React
+- Next.js
+- Tailwind CSS
 
-- 📧 Email:esayasaregawi29@gmail.com
+### Databases
+- PostgreSQL
+- MySQL
+- MongoDB
 
+### Tools
+- Git
+- Docker
+- Linux
+- AWS
+
+## Featured Projects
+
+### 🔹 RAG Chatbot
+A Retrieval-Augmented Generation chatbot built with FastAPI, Next.js, Ollama, and ChromaDB featuring semantic search, conversation memory, streaming responses, and an admin dashboard.
+
+### 🔹 Open-Vocabulary Object Locator & Tracker
+A computer vision application that combines Grounding DINO, CLIP, and SAM 2 for open-vocabulary object detection, segmentation, and video tracking.
+
+## Currently Learning
+
+- Agentic AI
+- MCP (Model Context Protocol)
+- Production AI systems
+- Advanced RAG architectures
+
+---
+
+I'm always interested in building useful AI applications and learning new technologies.
