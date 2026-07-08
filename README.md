@@ -214,7 +214,7 @@ An AI computer vision project combining multiple foundation models.
 
 [![GitHub](https://img.shields.io/badge/GitHub-EsayasA-111111?style=for-the-badge&logo=github)](https://github.com/EsayasA)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin)](ADD_YOUR_LINKEDIN_URL)
-[![Email](https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ADD_YOUR_EMAIL)
+[![Email](https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:esayasaregawi29@gmail.com)
 
 </div>
 
