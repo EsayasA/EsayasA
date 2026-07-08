@@ -16,7 +16,8 @@ I'm an **AI Engineer** and **Software Developer** currently pursuing a **Master'
 
 My work focuses on **Large Language Models (LLMs)**, **Retrieval-Augmented Generation (RAG)**, **Computer Vision**, and **Full-Stack Development**. I enjoy transforming AI concepts into production-inspired applications that solve real-world problems.
 
-I'm continuously expanding my expertise in **Agentic AI**, **Model Context Protocol (MCP)**, and scalable AI systems while building practical projects that bridge machine learning and software engineering.
+🚀 Currently exploring **Agentic AI**, **Model Context Protocol (MCP)**, **AI Agents**, and **LLM Engineering** while building production-ready AI applications that combine machine learning with modern software engineering.
+
 ---
 
 ## 🛠️ Tech Stack
@@ -198,13 +199,10 @@ An AI computer vision project combining multiple foundation models.
 
 ## 📊 GitHub Stats
 
-<div align="center">
-
-![Esayas's GitHub Stats](https://github-readme-stats.vercel.app/api?username=EsayasA&show_icons=true&theme=tokyonight)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=EsayasA&layout=compact&theme=tokyonight)
-
-</div>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=EsayasA&show_icons=true&theme=tokyonight&hide_border=true" height="170" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=EsayasA&layout=compact&theme=tokyonight&hide_border=true" height="170" />
+</p>
 
 ---
 
