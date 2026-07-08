@@ -102,7 +102,8 @@ A modern **AI-powered Applicant Tracking System (ATS)** built with **Next.js**, 
 ![Ollama](https://img.shields.io/badge/Ollama-AI-111111?style=for-the-badge)
 
 🔗 **Repository:**  
-https://github.com/EsayasA/AI-Recruiting-Platform-NextJS-FastAPI
+
+[![GitHub](https://img.shields.io/badge/GitHub-EsayasA-111111?style=for-the-badge&logo=github)](https://github.com/EsayasA/AI-Recruiting-Platform-NextJS-FastAPI)
 
 </td>
 
@@ -136,7 +137,10 @@ A Retrieval-Augmented Generation assistant for private knowledge bases.
 ![RAG](https://img.shields.io/badge/RAG-Retrieval_Augmented_Generation-8A2BE2?style=for-the-badge)
 
 🔗 **Repository:**  
-https://github.com/EsayasA/RAG-chatbot
+
+[![GitHub](https://img.shields.io/badge/GitHub-EsayasA-111111?style=for-the-badge&logo=github)](https://github.com/EsayasA/RAG-chatbot)
+
+
 
 </td>
 
@@ -170,7 +174,8 @@ An AI computer vision project combining multiple foundation models.
 ![CLIP](https://img.shields.io/badge/CLIP-Vision_Language-FF6F00?style=for-the-badge)
 
 🔗 **Repository:**  
-https://github.com/EsayasA/open-vocabulary-object-tracking
+
+[![GitHub](https://img.shields.io/badge/GitHub-EsayasA-111111?style=for-the-badge&logo=github)](https://github.com/EsayasA/open-vocabulary-object-tracking)
 
 </td>
 
