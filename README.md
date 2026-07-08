@@ -88,7 +88,18 @@ A modern **AI-powered Applicant Tracking System (ATS)** built with **Next.js**, 
 
 **Tech Stack**
 
-`FastAPI` • `Next.js` • `React` • `TypeScript` • `SQLAlchemy` • `Ollama`
+### 🛠️ Tech Stack
+
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![SQLAlchemy](https://img.shields.io/badge/SQLAlchemy-D71F00?style=for-the-badge)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
+![Sentence Transformers](https://img.shields.io/badge/Sentence_Transformers-FF6F00?style=for-the-badge)
+![Ollama](https://img.shields.io/badge/Ollama-AI-111111?style=for-the-badge)
 
 🔗 **Repository:**  
 https://github.com/EsayasA/AI-Recruiting-Platform-NextJS-FastAPI
