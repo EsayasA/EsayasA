@@ -200,8 +200,8 @@ An AI computer vision project combining multiple foundation models.
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=EsayasA&show_icons=true&theme=tokyonight&hide_border=true" height="170" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=EsayasA&layout=compact&theme=tokyonight&hide_border=true" height="170" />
+  <img height="170" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=EsayasA&show_icons=true&theme=tokyonight&hide_border=true"/>
+  <img height="170" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=EsayasA&layout=compact&theme=tokyonight&hide_border=true"/>
 </p>
 
 ---
