@@ -125,7 +125,15 @@ A Retrieval-Augmented Generation assistant for private knowledge bases.
 
 **Tech Stack**
 
-`FastAPI` • `Next.js` • `Ollama` • `ChromaDB` • `React`
+### 🛠️ Tech Stack
+
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![ChromaDB](https://img.shields.io/badge/ChromaDB-Vector_DB-5B4BFF?style=for-the-badge)
+![Ollama](https://img.shields.io/badge/Ollama-AI-111111?style=for-the-badge)
+![RAG](https://img.shields.io/badge/RAG-Retrieval_Augmented_Generation-8A2BE2?style=for-the-badge)
 
 🔗 **Repository:**  
 https://github.com/EsayasA/RAG-chatbot
@@ -153,7 +161,13 @@ An AI computer vision project combining multiple foundation models.
 
 **Tech Stack**
 
-`Python` • `Grounding DINO` • `SAM 2` • `CLIP` • `OpenCV`
+### 🛠️ Tech Stack
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-Computer_Vision-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
+![Grounding DINO](https://img.shields.io/badge/Grounding_DINO-Object_Detection-00A86B?style=for-the-badge)
+![SAM 2](https://img.shields.io/badge/SAM_2-Segmentation-8A2BE2?style=for-the-badge)
+![CLIP](https://img.shields.io/badge/CLIP-Vision_Language-FF6F00?style=for-the-badge)
 
 🔗 **Repository:**  
 https://github.com/EsayasA/open-vocabulary-object-tracking
