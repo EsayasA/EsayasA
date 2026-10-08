@@ -180,19 +180,6 @@ An AI computer vision project combining multiple foundation models.
 
 </td>
 
-<td width="50%">
-
-## 🚧 Coming Soon
-
-### Current Focus
-
-- 🤖 Agentic AI Systems
-- 🧠 MCP Applications
-- ⚡ AI Automation
-- 🔥 Production RAG
-- ☁️ Cloud AI Deployment
-
-</td>
 
 </tr>
 </table>
